@@ -1,2 +1,4 @@
 ---
 lucky-word: Irish
+server:
+  port: 8003
