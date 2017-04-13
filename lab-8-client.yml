@@ -1,4 +1,6 @@
 ---
-lucky-word: Irish
+wordConfig:
+  luckyWord: Irish
+  preamble: The luck word is 
 server:
   port: 8008
