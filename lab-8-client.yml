@@ -1,6 +1,6 @@
 ---
 wordConfig:
-  luckyWord: Irish
-  preamble: The luck word is 
+  luckyWord: Foot Rabbit's
+  preamble: The luck word is :
 server:
   port: 8008
